@@ -1,1 +1,1 @@
-# Fake-News-Classification-suing-ML
+# Fake-News-Classification-using-ML
